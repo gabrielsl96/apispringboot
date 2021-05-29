@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.apimusicshool.apimusicshool.ApimusicshoolApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.414 s - in br.com.apimusicshool.apimusicshool.ApimusicshoolApplicationTests
